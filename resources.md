@@ -24,6 +24,8 @@ There are a ton of very good 3D-printing resources for magnetic racks, but I hav
 
 [OpenTrons](https://github.com/Opentrons): Not DIY by any means, but officially "open source", and we're pretty fond of ours :)
 
+[IORodeo](https://iorodeo.com/) used to sell some nice looking kits to make your own blue transilluminator as described [here](https://www.instructables.com/Blue-LED-transilluminator/), but the pre-made kit is apparently [no more](http://www.iorodeo.com/content/blue-led-transilluminator-kit-0). It looks like you can still find all the designs to build their [blue transilluminator](http://public.iorodeo.com/docs/led_transilluminator/), [UV transilluminator](http://public.iorodeo.com/docs/uv_transilluminator/), and a bunch of [other cool stuff](https://iorodeo.com/pages/documentation) from scratch yourself.
+
 
 Protocols
 ---------
