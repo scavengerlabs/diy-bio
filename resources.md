@@ -20,7 +20,9 @@ Lab equipment
 
 Laser-cut and 3D printed [magnetic racks](https://bomb.bio/protocols) from BOMB.bio
 
-There are a ton of very good 3D-printing resources for magnetic racks, but I have to recommend [Sergii Lab Supplies](https://sergilabsupplies.com/) - they've perfected these racks in various form factors and are really reasonably priced
+There are a ton of very good 3D-printing resources for magnetic racks, but I have to recommend [Sergii Lab Supplies](https://sergilabsupplies.com/) - they've perfected these racks in various form factors and are really reasonably priced compared even to making them oneself
+
+[OpenTrons](https://github.com/Opentrons): Not DIY by any means, but officially "open source", and we're pretty fond of ours :)
 
 
 Protocols
